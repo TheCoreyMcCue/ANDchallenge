@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 40%;
+  margin: 5%;
+  padding: 3%;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 100%;
+}
